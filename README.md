@@ -8,9 +8,9 @@ Working in a professor-provided virtual enterprise environment, our team configu
 
 | Assignment | Focus | Documentation |
 | --- | --- | --- |
-| **1. Network configuration & firewalling** | Configure network services and translate ACME's security policy into OPNsense firewall rules. | [Requirements](PND2425_Assignment_1.pdf) · [Team report](ACME_09_a1_report.pdf) |
-| **2. Remote-access & site-to-site VPNs** | Deploy OpenVPN for remote employees and an IPsec tunnel between the two firewall-routers. | [Requirements](PND2425_Assignment_2.pdf) · [Team report](ACME_09_a2_report.pdf) |
-| **3. Network hardening** | Define and implement a protection plan covering detection, administration, logging, and encrypted services. | [Requirements](PND2425_Assignment_3.pdf) · [Team report](ACME_09_a3_report.pdf) |
+| **1. Network configuration & firewalling** | Configure network services and translate ACME's security policy into OPNsense firewall rules. | [Requirements](<Assignment 1/PND2425_Assignment_1.pdf>) · [Team report](<Assignment 1/Consegna/ACME_09_a1_report.pdf>) |
+| **2. Remote-access & site-to-site VPNs** | Deploy OpenVPN for remote employees and an IPsec tunnel between the two firewall-routers. | [Requirements](<Assignment 2/PND2425_Assignment_2.pdf>) · [Team report](<Assignment 2/Consegna/ACME_09_a2_report.pdf>) |
+| **3. Network hardening** | Define and implement a protection plan covering detection, administration, logging, and encrypted services. | [Requirements](<Assignment 3/PND2425_Assignment_3.pdf>) · [Team report](<Assignment 3/Consegna/ACME_09_a3_report.pdf>) |
 
 The deliverables include technical reports and **OPNsense XML configuration exports** for the Main and Internal firewalls at each assignment stage.
 

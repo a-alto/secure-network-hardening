@@ -85,7 +85,7 @@ The project demonstrates practical experience in **firewall administration, secu
 
 ## Team & Scope
 
-**ACME Group 09:** Vincenzo Milillo, Giorgio Zucconelli, Andrea Altomare, and Salvatore Ruocco.
+**ACME Group 09:** Andrea Altomare, Vincenzo Milillo, Giorgio Zucconelli, and Salvatore Ruocco.
 
 This project was completed in an authorized university lab. Configuration exports are environment-specific snapshots and require adaptation before reuse.
 
